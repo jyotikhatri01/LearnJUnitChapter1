@@ -3,7 +3,6 @@ import org.example.model.TestData;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.junit.runners.Parameterized;
-
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
