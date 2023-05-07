@@ -8,7 +8,6 @@ import java.io.FileReader;
 import java.util.List;
 import java.util.Map;
 
-//https://www.geeksforgeeks.org/mapping-csv-to-javabeans-using-opencsv/
 public class CsvToBean {
     public List<Class<?>> csvToBean(String filePath, Class TestDataClass, Map<String,String> map_columns) {
 
